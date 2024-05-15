@@ -16,7 +16,7 @@ Technologies Used
 
 How to Use
 
-    Clone the repository: git clone https://github.com/your-username/netflix-clone.git
+    Clone the repository: git clone https://github.com/roshan992/My_Netflix_Clone.git
     Open index.html in your browser to view the project.
 
 Feel free to explore the code, suggest improvements, or use it as a learning resource!
